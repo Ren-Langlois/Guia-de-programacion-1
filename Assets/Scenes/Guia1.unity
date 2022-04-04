@@ -333,6 +333,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a677b622dcc27a8449dc3d9e32a3213e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pers1: jorge
+  cap1: 3
+  pers2: Anibal
+  cap2: 4
+  pers3: Marcelo
+  cap3: 3
 --- !u!1 &774615944
 GameObject:
   m_ObjectHideFlags: 0
@@ -438,7 +444,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &880110037
 Transform:
   m_ObjectHideFlags: 0
@@ -465,6 +471,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 053b0235aa8a7e94987e3406c214f171, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  horario: 10
 --- !u!1 &1159275419
 GameObject:
   m_ObjectHideFlags: 0
